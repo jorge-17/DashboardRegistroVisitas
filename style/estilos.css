@@ -1,0 +1,15 @@
+.profile_img{
+    width: 50%;
+    background: #fff;
+    margin-left: 15%;
+    z-index: 1000;
+    position: inherit;
+    margin-top: 20px;
+    border: 1px solid rgba(52,73,94,.44);
+    padding: 4px;
+}
+
+#menuVistasActivas{
+    overflow: auto;
+    max-height: 500px;    
+}
